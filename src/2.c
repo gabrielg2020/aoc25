@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-#include "common/file_utils.h"
+#include "../common/file_utils.h"
 
 // Part 1: Check if a number is invalid (made of a pattern repeated exactly twice)
 bool is_invalid_id_part1(long long num) {
