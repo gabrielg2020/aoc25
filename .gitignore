@@ -1,0 +1,4 @@
+# Compiled solutions (executables without extensions)
+# Ignore all files that are just numbers (1, 2, 3, etc.)
+[0-9]
+[0-9][0-9]
